@@ -1,29 +1,20 @@
-# covid19-kawalhoax
+# Covid19 Cek Fakta
 
-## Project setup
-```
-npm install
-```
+Covid19 sekarang sudah menjadi pandemik di awal maret tahun 2020, banyak HOAX yang akhirnya bermunculan di masyarakat. Oleh karena itu, saya membuat website ini untuk membantu masyarakat mengetahui mana berita yang benar dan mana yang salah.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Jangan panik, tetap jaga kesehatan. Jiayou :smiley:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Demo
+[http://labhuda.com/covid19-cekfakta](http://labhuda.com/covid19-cekfakta)
 
-### Run your tests
-```
-npm run test
-```
+### Data
+API dari **Airtable**
+(Data diambil dari berbagai sumber)
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Built with
+- VueJS
+- Airtable
+- Bulma CSS
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Kontributor
+Email saya di [iniakunhuda@gmail.com](http://mailto:iniakunhuda@gmail.com) untuk mengajukan diri menjadi kontributor baik itu untuk memvalidasi HOAX maupun menjadi developer untuk mengembangkan website ini.
